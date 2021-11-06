@@ -1,4 +1,4 @@
--# Olá! Eu sou o Rodrigo Rafa
+# Olá! Eu sou o Rodrigo Rafa
 
 🐍Estudando Python3 atualmente
 💼 Trabalho como inspetor de qualidade
