@@ -1,6 +1,6 @@
 # Olá! Eu sou o Rodrigo Rafa
 
-🐍Estudando Python3 atualmente
+🐍Estudando Python3 e Javascript
 💼 Trabalho como inspetor de qualidade
 ✉ Contate-me no e-mail: rodrigorafa71@gmail.com
 
