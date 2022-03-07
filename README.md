@@ -2,6 +2,7 @@
 
 🐍Estudando Python3 e Javascript <br>
 💼Atualmente desempregado <br>
+👀Buscando uma oportunidade para programador junior<br>
 ✉Contate-me no e-mail: rodrigorafa71@gmail.com <br>
 
 <div align="center">
