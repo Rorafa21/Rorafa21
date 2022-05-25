@@ -1,9 +1,11 @@
 # Olá! Eu sou o Rodrigo Rafa
 
-🐍Estudando Python3 e Javascript <br>
-💼Atualmente desempregado <br>
-👀Buscando uma oportunidade para programador junior<br>
-✉Contate-me no e-mail: rodrigorafa71@gmail.com <br>
+👾Estudante de Python3, HTML, CSS, Js <br>
+👨🏻‍💻Atualmente desempregado <br>
+🧑🏻‍💼Buscando uma oportunidade para programador junior<br>
+📪Contatos: 
+📧rodrigorafa71@gmail.com <br>
+📱(19)9 9950-1650
 
 <div align="center">
   <a href="https://github.com/Rorafa21">
