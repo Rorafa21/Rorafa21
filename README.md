@@ -1,9 +1,12 @@
 # Olá! Eu sou o Rodrigo Rafa
 
 👾Estudante de Python3, HTML, CSS, Js <br>
+<br>
 👨🏻‍💻Atualmente desempregado <br>
+<br>
 🧑🏻‍💼Buscando uma oportunidade para programador junior<br>
-📪Contatos: 
+
+📪Contatos:
 📧rodrigorafa71@gmail.com <br>
 📱(19)9 9950-1650
 
@@ -14,10 +17,13 @@
 </div>
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
-  ##
   
  <div>
   <a href="https://instagram.com/rosdrigu21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
