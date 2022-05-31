@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/Rorafa21">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Rorafa21&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rorafa21&hide=PowerShell,Batchfile&layout=compact&langs_count=7&theme=react"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rorafa21&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rorafa21&hide=PowerShell,Batchfile&layout=compact&langs_count=7&theme=react"/>
 </div>
   
  <div style="display: inline_block"><br>
