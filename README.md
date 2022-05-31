@@ -6,7 +6,7 @@
 <br>
 🧑🏻‍💼Buscando uma oportunidade para programador junior<br>
 
-📪Contatos:
+📪Contatos:<br>
 📧rodrigorafa71@gmail.com <br>
 📱(19)9 9950-1650
 
