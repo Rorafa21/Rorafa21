@@ -2,7 +2,7 @@
 
 👾Estudante de Python3, HTML, CSS, Js <br>
 <br>
-👨🏻‍💻Atualmente desempregado <br>
+👨🏻‍💻Trabalhando como suporte técnico <br>
 <br>
 🧑🏻‍💼Buscando uma oportunidade para programador junior<br>
 
