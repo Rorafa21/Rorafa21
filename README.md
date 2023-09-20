@@ -1,9 +1,7 @@
 # Olá! Eu sou o Rodrigo Rafa
 
 👾Estudante de Python3, HTML, CSS, Js <br>
-<br>
 👨🏻‍💻Trabalhando como suporte técnico <br>
-<br>
 🧑🏻‍💼Buscando uma oportunidade para programador junior<br>
 
 📪Contatos:<br>
@@ -12,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/Rorafa21">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rorafa21&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rorafa21&hide=PowerShell,Batchfile&layout=compact&langs_count=7&theme=react"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Rorafa21&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rorafa21&hide=PowerShell,Batchfile&layout=compact&langs_count=7&theme=react"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -32,8 +30,4 @@
    
  </div> 
 
- </div>
 
- ![Snake animation](https://github.com/Rorafa21/Rorafa21/blob/output/github-contribution-grid-snake.svg)
- 
- </div>
